@@ -27,11 +27,11 @@ const siteProps = {
   name: "Simona Cancian",
   title: "Junior Developer",
   email: "simona.cancian@com",
-  gitHub: "https://github.com/simona-cancian",
-  instagram: "https://www.instagram.com/_kanomis/",
-  linkedIn: "https://www.linkedin.com/in/simona-cancian-a206a991/",
+  gitHub: "simona-cancian",
+  instagram: "_kanomis/",
+  linkedIn: "simona-cancian-a206a991/",
   medium: "",
-  twitter: "https://twitter.com/simona_cancian",
+  twitter: "simona_cancian",
   youTube: "",
 };
 
