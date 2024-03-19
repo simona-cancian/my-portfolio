@@ -28937,14 +28937,14 @@ const Education = ()=>{
                 children: "Education"
             }, void 0, false, {
                 fileName: "src/Components/Education.jsx",
-                lineNumber: 15,
+                lineNumber: 16,
                 columnNumber: 7
             }, undefined),
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("p", {
                 children: "I am a self-taught developer. I have completed a number of online courses and have been working on various projects to improve my skills."
             }, void 0, false, {
                 fileName: "src/Components/Education.jsx",
-                lineNumber: 16,
+                lineNumber: 17,
                 columnNumber: 7
             }, undefined)
         ]
