@@ -11,7 +11,8 @@ const Education = () => {
         padding: "4rem",
         margin: "3rem auto",
         textAlign: "center",
-      }}>
+      }}
+    >
       <h2>Education</h2>
       <p>
         I am a self-taught developer. I have completed a number of online courses and have been
